@@ -82,6 +82,9 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
+The Subject cariable is the number value given to each test subject.
+The Activity variable is a numeric value that corresponds to a Activity descritption.  Theses can be found in the activity_labels.txt file
+
 Data Transformation for tidyDataSet:
 ====================
  - Columns from the Subject_train and y_train files were added to the y_train training set.
