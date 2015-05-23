@@ -82,7 +82,7 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
-Data Transformation for tidDataSet:
+Data Transformation for tidyDataSet:
 ====================
  - Columns from the Subject_train and y_train files were added to the y_train training set.
  - Columns from the Subject_test and y_test files were added to the y_test training set.
