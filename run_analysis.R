@@ -1,6 +1,5 @@
-##Installs neccessary packages and libraries required for this script
-install.packages("dplyr")
-library(dplyr)
+##This script is dependant on the dplyr package being installed and loaded
+
 
 
 
